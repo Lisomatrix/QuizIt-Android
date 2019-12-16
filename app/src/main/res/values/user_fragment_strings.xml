@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Escolha um nome:</string>
+    <string name="input_hint">Nome</string>
+    <string name="button_text">Começar Quiz</string>
+</resources>

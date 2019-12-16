@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rooms_title">Escolha um lobby</string>
+    <string name="new_room_button">Novo</string>
+</resources>
